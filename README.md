@@ -1,6 +1,6 @@
-# 🌐 Zerodha Clone
+# 🌐 Stock_Trading_Platform_Main
 
-Welcome to **Zerodha Clone**! This repository includes a clone of the popular stock trading platform, built using the MERN stack.
+Welcome to **Trading Platform**! This repository includes a clone of the popular stock trading platform, built using the MERN stack.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to **Zerodha Clone**! This repository includes a clone of the popular st
 
 ## 🌟 Overview
 
-**Description**: A clone of the popular stock trading platform, Zerodha, built using the MERN stack.
+**Description**: A clone of the popular stock trading platform, Trading Platform, built using the MERN stack.
 
 ---
 
