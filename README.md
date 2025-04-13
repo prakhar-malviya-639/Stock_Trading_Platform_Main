@@ -130,19 +130,3 @@ Explore the unique features available in this application:
 | ![Mockup](./Screenshot/Product.jpeg) | ![Mockup](./Screenshot/Pricing.jpeg) | ![Mockup](./Screenshot/Support.jpeg) |
 
 ---
-
-## 🙏 Acknowledgments
-
-We’d like to thank the following contributors and resources:
-
-- **[Apna College's Delta 3.0 Course](https://www.apnacollege.in/)** - Course resource.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
-
----
-
-### Enjoy exploring and contributing to Zerodha Clone!
